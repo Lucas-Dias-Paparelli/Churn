@@ -1,0 +1,15 @@
+# Previsão de Churn de Clientes
+Este projeto utiliza técnicas de aprendizado de máquina para prever o churn de clientes. 
+O conjunto de dados passou por um cuidadoso pré-processamento, incluindo a remoção de colunas irrelevantes e a codificação de variáveis categóricas. 
+Três modelos foram empregados: LinearSVC, Árvore de Decisão e Random Forest. 
+O Random Forest destacou-se como o mais eficaz, proporcionando uma acurácia de 86,32% e equilíbrio entre precisão e recall com um F1-Score de 58,80%.
+O processo detalhado e os resultados obtidos garantem uma compreensão abrangente do projeto.
+
+-------------------------------------------------------------------------------------------------------------------
+
+# Customer Churn Prediction
+This project employs machine learning techniques to predict customer churn. 
+The dataset underwent careful preprocessing, including the removal of irrelevant columns and the encoding of categorical variables. 
+Three models were employed: LinearSVC, Decision Tree, and Random Forest. 
+Random Forest stood out as the most effective, providing an accuracy of 86.32% and a balance between precision and recall with an F1-Score of 58.80%. 
+The detailed process and achieved results ensure a comprehensive understanding of the project.
